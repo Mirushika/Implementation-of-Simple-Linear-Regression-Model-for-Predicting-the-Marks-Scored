@@ -68,7 +68,7 @@ print("RMSE =",rmse) ```
 ```
 ## Output:
 ![simple linear regression model for predicting the marks scored](sam.png)
-
+```
     Hours  Scores
 0     2.5      21
 1     5.1      47
@@ -145,7 +145,7 @@ print("RMSE =",rmse) ```
 
 
 
-
+```
 
 
 
